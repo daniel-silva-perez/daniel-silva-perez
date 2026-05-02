@@ -1,70 +1,67 @@
 # Daniel Silva Perez
 
-**Software Developer · AI Systems · Automation Infrastructure**
+**Full-stack product engineer · AI systems builder · automation infrastructure**
 
-I build operator-facing software where autonomy, latency, and technical judgment matter: agentic systems, local-first AI tooling, and infrastructure that helps people act with more leverage.
+I build practical software at the point where product execution, AI systems, and operator workflows meet. My strongest work turns messy, high-context processes into usable tools: local-first AI utilities, developer automation, dashboards, browser integrations, and full-stack products that are easy to inspect and run.
 
-Currently: General Manager Assistant at **Amazon** (executive operations + technical automation). Studying **Software Engineering** at WGU (competency-based, accelerating). Shipping side projects in public.
-
----
-
-## What I Can Build
-
-- **AI agent harnesses** — multi-provider terminal agents with streaming, tool execution, TUI, and secret-safe config
-- **Local-first AI systems** — privacy-preserving assistants using edge hardware (NVIDIA Jetson), local LLMs, and offline speech
-- **Automation infrastructure** — GitHub bots that review issues, sweep commits, and maintain repos autonomously
-- **Full-stack products** — Next.js + TypeScript + Supabase + R2, deployed to Vercel, used by real people
-- **Technical writing & research** — interactive explainers, market maps, investor-grade breakdowns
+Currently: General Manager Assistant at **Amazon**, combining executive operations with technical automation. Studying **Software Engineering** at WGU while shipping projects in public.
 
 ---
 
-## Flagship Work
+## What I Build
 
-### AI & Agent Infrastructure
+- **Full-stack products** with TypeScript, Next.js, React, Supabase, Stripe, and Vercel
+- **AI systems and agent tooling** for provider-agnostic workflows, local-first data, and CLI/TUI operators
+- **Developer tools** that keep repos, documentation, and AI workflows maintainable
+- **Data and research dashboards** for civic signals, commerce analysis, learning systems, and personal operations
+- **Privacy-conscious browser tools** that run locally without unnecessary backends or API keys
 
-- **[`sweepai`](https://github.com/daniel-silva-perez/sweepai)** — **Model-agnostic AI maintenance bot.** Forked from `openclaw/clawsweeper`, rebuilt with pluggable LLM providers (Codex, Claude, Gemini, Kimi). Abstracted 30+ hardcoded `codex` references into a unified provider interface. TypeScript, 5 providers, production-ready.
-- **[`husksh`](https://gitlab.com/danielsilvaperez/husksh)** — Multi-provider terminal agent harness in **Rust** with streaming, tool execution, TUI, and secret-safe config.
-- **[`oh-my-gemini`](https://gitlab.com/danielsilvaperez/oh-my-gemini)** — Workflow/runtime layer for Gemini CLI with persistent project state and tmux-backed execution.
+---
+
+## Flagship Projects
+
+### Product + AI Systems
+
+- **[GlideTypeAI](https://github.com/daniel-silva-perez/GlideTypeAI)** — Privacy-first iOS keyboard with an offline glide decoder, candidate correction, custom keyboard extension, and explicit opt-in path for future AI rewriting.
+- **[kanban-hermes](https://github.com/daniel-silva-perez/kanban-hermes)** — Deployed Next.js kanban app focused on fast capture, prioritization, and project flow. Demo: [kanban-hermes.vercel.app](https://kanban-hermes.vercel.app)
+- **[ocaml-trading-engine](https://github.com/daniel-silva-perez/ocaml-trading-engine)** — Typed trading systems lab in OCaml for backtesting, risk checks, event replay, and paper-trading architecture.
 
 ### Developer Tools
 
-- **[`markdown-agent`](https://github.com/daniel-silva-perez/markdown-agent)** — AI-assisted maintenance for `AGENTS.md`, `CLAUDE.md`, and `GEMINI.md`.
-- **[`ai-chat-sync`](https://github.com/daniel-silva-perez/ai-chat-sync)** — Local-first userscript that carries chat history across AI products.
-- **[`ai-chat-export-tool`](https://github.com/daniel-silva-perez/ai-chat-export-tool)** — Userscript that exports major AI chats into clean Markdown or JSON.
+- **[markdown-agent](https://github.com/daniel-silva-perez/markdown-agent)** — Python CLI for keeping `AGENTS.md`, `CLAUDE.md`, and `GEMINI.md` synchronized with meaningful codebase changes.
+- **[ai-chat-sync](https://github.com/daniel-silva-perez/ai-chat-sync)** — Local-first userscript that syncs AI chats across ChatGPT, Claude, and Gemini without a backend.
+- **[ai-chat-export-tool](https://github.com/daniel-silva-perez/ai-chat-export-tool)** — Browser userscript for exporting AI assistant conversations to Markdown or JSON.
 
-### Products & Experiments
+### Product Research + Dashboards
 
-- **[`danielsilvaperez.com`](https://danielsilvaperez.com/)** — Portfolio and writing hub. Next.js, deployed on Vercel.
-- **AI Record Label** (in progress) — Three-layer business: 100%-owned AI personas, real-artist deals, and a $29-99/mo SaaS for indie producers. Stack: Bun + TS + Next.js + Supabase + R2 + Inngest.
+- **[dropshipping-intel](https://github.com/daniel-silva-perez/dropshipping-intel)** — TypeScript CLI for ecommerce product research, price tracking, competitor checks, and SQLite-backed local analysis.
+- **[benchmark-lms-subagent](https://github.com/daniel-silva-perez/benchmark-lms-subagent)** — Interactive WebGL ASCII fluid simulation built as a browser benchmark for subagent UI generation.
 
 ---
 
 ## Technical Stack
 
-**Languages:** TypeScript, Python, Rust, SQL  
-**Frontend:** Next.js, React, Tailwind CSS, p5.js, Three.js  
-**Backend:** Node.js, Bun, Supabase, PostgreSQL, Redis  
+**Languages:** TypeScript, Python, Swift, Rust, Go, OCaml, SQL  
+**Frontend:** Next.js, React, Tailwind CSS, WebGL, Three.js, p5.js  
+**Backend:** Node.js, Bun, Supabase, PostgreSQL, Redis, SQLite  
 **AI/ML:** OpenAI API, Claude API, Gemini API, Ollama, llama.cpp, LangChain  
-**Infrastructure:** Docker, GitHub Actions, Vercel, Cloudflare R2, Linux (daily driver)  
-**Tools:** GitHub CLI, GitLab, pnpm, Vitest, Playwright  
+**Infrastructure:** GitHub Actions, Vercel, Docker, Cloudflare R2, Linux  
+**Tooling:** GitHub CLI, pnpm, Vitest, Playwright, pytest, Swift Package Manager
 
 ---
 
 ## Current Focus
 
-- **Agent tooling that feels usable to operators**, not just demo-friendly
-- **Local-first workflows** that preserve control over data and context
-- **Repo surfaces that make the technical story legible fast**
-- **Accelerating WGU** — targeting graduation in 12-18 months via competency-based progression
+- Shipping recruiter-legible product demos with clear READMEs, demos, and run paths
+- Building AI tools that preserve local control over context and data
+- Turning repeated operations into durable workflows instead of one-off scripts
+- Completing WGU Software Engineering through competency-based progression
 
 ---
 
-## Writing & Contact
+## Contact
 
 - **Website:** [danielsilvaperez.com](https://danielsilvaperez.com/)
+- **Search portfolio:** [daniel-search.vercel.app](https://daniel-search.vercel.app)
 - **GitLab mirror:** [gitlab.com/danielsilvaperez](https://gitlab.com/danielsilvaperez)
 - **Email:** `danielsp.dev@gmail.com`
-
----
-
-> *"I don't just write code. I build systems that reduce friction between intention and action."*
