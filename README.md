@@ -9,7 +9,8 @@
 <p align="center">
   <a href="https://danielsilvaperez.com/"><img src="https://img.shields.io/badge/Website-danielsilvaperez.com-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7C3AED" alt="Website" /></a>
   <a href="https://daniel-search.vercel.app/"><img src="https://img.shields.io/badge/Search_Portfolio-daniel--search-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=06B6D4" alt="Search Portfolio" /></a>
-  <a href="mailto:danielsp.dev@gmail.com"><img src="https://img.shields.io/badge/Email-danielsp.dev%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EC4899" alt="Email" /></a>
+  <a href="https://daniel-silva-perez.github.io/creative-systems/"><img src="https://img.shields.io/badge/Creative_Systems-live_gallery-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=EC4899" alt="Creative Systems gallery" /></a>
+  <a href="mailto:danielsp.dev@gmail.com"><img src="https://img.shields.io/badge/Email-danielsp.dev%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F59E0B" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -33,7 +34,7 @@ If you want the fastest read on how I think and build, start here:
 - **[glide-type-ios](https://github.com/daniel-silva-perez/glide-type-ios)** — privacy-first iOS keyboard with offline glide typing, candidate correction, custom keyboard extension, and an explicit trust boundary.
 - **[markdown-agent](https://github.com/daniel-silva-perez/markdown-agent)** — Python CLI that keeps `AGENTS.md`, `CLAUDE.md`, and `GEMINI.md` aligned with meaningful codebase changes.
 - **[ocaml-trading-engine](https://github.com/daniel-silva-perez/ocaml-trading-engine)** — typed, event-driven trading systems lab for replay, risk checks, and correctness-heavy domain modeling.
-- **[benchmark-lms-subagent](https://github.com/daniel-silva-perez/benchmark-lms-subagent)** — GPU-accelerated WebGL ASCII fluid simulation with a live demo at [benchmark-lms-subagent.vercel.app](https://benchmark-lms-subagent.vercel.app).
+- **[creative-systems](https://github.com/daniel-silva-perez/creative-systems)** — live gallery + monorepo that consolidates my browser-native experiments in simulation, audio, shaders, and interactive worlds at [daniel-silva-perez.github.io/creative-systems](https://daniel-silva-perez.github.io/creative-systems/).
 
 ## ✦ What I Build
 
@@ -79,6 +80,7 @@ Currently: General Manager Assistant at **Amazon**, blending executive operation
 - **[ai-chat-export-tool](https://github.com/daniel-silva-perez/ai-chat-export-tool)** — browser export tool for turning AI conversations into clean Markdown or JSON artifacts.
 
 ### Creative Systems
+- **[creative-systems](https://github.com/daniel-silva-perez/creative-systems)** — consolidated monorepo + live gallery for my visual/browser-native experiments: [live gallery](https://daniel-silva-perez.github.io/creative-systems/).
 - **[benchmark-lms-subagent](https://github.com/daniel-silva-perez/benchmark-lms-subagent)** — interactive WebGL ASCII fluid simulation built as a high-signal frontend benchmark.
 - **[morphix](https://github.com/daniel-silva-perez/morphix)** — live GLSL playground with real-time editing, presets, compile feedback, and shareable URLs.
 - **[echo-chamber](https://github.com/daniel-silva-perez/echo-chamber)** — spatial audio memory palace combining 3D navigation, voice capture, and directional playback.
