@@ -1,0 +1,109 @@
+<svg width="1400" height="620" viewBox="0 0 1400 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Daniel Silva Perez — Product engineer building AI systems, developer tools, and creative browser software</title>
+  <desc id="desc">Dark cinematic banner with neon gradients, grid textures, and feature cards highlighting AI systems, developer tools, and creative browser software.</desc>
+  <defs>
+    <linearGradient id="bg" x1="54" y1="46" x2="1296" y2="574" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#04030D"/>
+      <stop offset="0.45" stop-color="#0A1021"/>
+      <stop offset="1" stop-color="#090713"/>
+    </linearGradient>
+    <radialGradient id="orbPurple" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1020 120) rotate(90) scale(220 360)">
+      <stop stop-color="#A855F7" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1178 402) rotate(90) scale(240 360)">
+      <stop stop-color="#22D3EE" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbRose" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(168 546) rotate(90) scale(120 240)">
+      <stop stop-color="#F472B6" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="strokeGlow" x1="82" y1="224" x2="642" y2="224" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.52" stop-color="#E879F9"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="lineGlow" x1="78" y1="374" x2="632" y2="374" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <linearGradient id="cardStroke" x1="760" y1="164" x2="1292" y2="474" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.08"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" stroke="#7C3AED" stroke-opacity="0.09" stroke-width="1"/>
+    </pattern>
+    <filter id="blurXL" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="54"/>
+    </filter>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="10" y="10" width="1380" height="600" rx="28" fill="url(#bg)"/>
+  <rect x="10" y="10" width="1380" height="600" rx="28" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <rect x="10" y="10" width="1380" height="600" rx="28" fill="url(#grid)"/>
+
+  <ellipse cx="1020" cy="120" rx="220" ry="360" fill="url(#orbPurple)" filter="url(#blurXL)"/>
+  <ellipse cx="1178" cy="402" rx="240" ry="360" fill="url(#orbCyan)" filter="url(#blurXL)"/>
+  <ellipse cx="168" cy="546" rx="120" ry="240" fill="url(#orbRose)" filter="url(#blurXL)"/>
+
+  <path d="M820 86C936 102 1036 178 1112 292C1178 392 1244 432 1322 458" stroke="#8B5CF6" stroke-opacity="0.25" stroke-width="1.5"/>
+  <path d="M774 132C948 156 1042 250 1104 328C1168 410 1232 452 1308 476" stroke="#22D3EE" stroke-opacity="0.18" stroke-width="1.5"/>
+  <circle cx="1112" cy="292" r="5" fill="#A855F7" filter="url(#softGlow)"/>
+  <circle cx="1206" cy="416" r="5" fill="#22D3EE" filter="url(#softGlow)"/>
+  <circle cx="1008" cy="234" r="4" fill="#F472B6" filter="url(#softGlow)"/>
+
+  <g>
+    <rect x="78" y="74" width="124" height="34" rx="17" fill="#0F172A" fill-opacity="0.85" stroke="#A855F7" stroke-opacity="0.42"/>
+    <text x="104" y="96" fill="#E9D5FF" font-size="14" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" letter-spacing="1.6">MIAMI</text>
+
+    <rect x="214" y="74" width="136" height="34" rx="17" fill="#0F172A" fill-opacity="0.85" stroke="#22D3EE" stroke-opacity="0.42"/>
+    <text x="242" y="96" fill="#CFFAFE" font-size="14" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" letter-spacing="1.6">AMAZON</text>
+
+    <rect x="362" y="74" width="118" height="34" rx="17" fill="#0F172A" fill-opacity="0.85" stroke="#F472B6" stroke-opacity="0.42"/>
+    <text x="389" y="96" fill="#FCE7F3" font-size="14" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" letter-spacing="1.6">WGU</text>
+  </g>
+
+  <text x="78" y="230" fill="#F8FAFC" font-size="90" font-weight="800" letter-spacing="4.8" font-family="'Segoe UI', Arial, sans-serif">DANIEL</text>
+  <text x="78" y="322" fill="none" stroke="url(#strokeGlow)" stroke-width="2.2" font-size="74" font-weight="800" letter-spacing="5.4" font-family="'Segoe UI', Arial, sans-serif">SILVA PEREZ</text>
+  <rect x="78" y="366" width="544" height="4" rx="2" fill="url(#lineGlow)"/>
+
+  <text x="78" y="414" fill="#CBD5E1" font-size="24" font-weight="500" font-family="'Segoe UI', Arial, sans-serif">Product engineer building AI systems, developer tools,</text>
+  <text x="78" y="448" fill="#CBD5E1" font-size="24" font-weight="500" font-family="'Segoe UI', Arial, sans-serif">and creative browser software with local-first instincts</text>
+  <text x="78" y="482" fill="#CBD5E1" font-size="24" font-weight="500" font-family="'Segoe UI', Arial, sans-serif">and shipping discipline.</text>
+
+  <text x="78" y="548" fill="#94A3B8" font-size="15" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" letter-spacing="1.4">FULL-STACK PRODUCTS  •  OPERATOR TOOLS  •  INTERACTIVE SYSTEMS</text>
+
+  <g transform="translate(812 154)">
+    <rect width="506" height="112" rx="24" fill="#08101F" fill-opacity="0.72" stroke="url(#cardStroke)"/>
+    <rect x="24" y="24" width="11" height="11" rx="5.5" fill="#8B5CF6" filter="url(#softGlow)"/>
+    <text x="52" y="34" fill="#F8FAFC" font-size="24" font-weight="700" font-family="'Segoe UI', Arial, sans-serif">AI Systems</text>
+    <text x="24" y="68" fill="#CBD5E1" font-size="18" font-family="'Segoe UI', Arial, sans-serif">Provider-agnostic workflows, local-first context,</text>
+    <text x="24" y="94" fill="#CBD5E1" font-size="18" font-family="'Segoe UI', Arial, sans-serif">automation surfaces people can actually operate.</text>
+  </g>
+
+  <g transform="translate(760 288)">
+    <rect width="474" height="104" rx="24" fill="#071420" fill-opacity="0.68" stroke="url(#cardStroke)"/>
+    <rect x="24" y="23" width="11" height="11" rx="5.5" fill="#22D3EE" filter="url(#softGlow)"/>
+    <text x="52" y="34" fill="#F8FAFC" font-size="24" font-weight="700" font-family="'Segoe UI', Arial, sans-serif">Developer Tools</text>
+    <text x="24" y="67" fill="#CBD5E1" font-size="18" font-family="'Segoe UI', Arial, sans-serif">Repo hygiene, instruction sync, CLI ergonomics,</text>
+    <text x="24" y="92" fill="#CBD5E1" font-size="18" font-family="'Segoe UI', Arial, sans-serif">and durable workflows over one-off scripts.</text>
+  </g>
+
+  <g transform="translate(856 416)">
+    <rect width="440" height="112" rx="24" fill="#13081A" fill-opacity="0.62" stroke="url(#cardStroke)"/>
+    <rect x="24" y="24" width="11" height="11" rx="5.5" fill="#F472B6" filter="url(#softGlow)"/>
+    <text x="52" y="34" fill="#F8FAFC" font-size="24" font-weight="700" font-family="'Segoe UI', Arial, sans-serif">Creative Systems</text>
+    <text x="24" y="68" fill="#CBD5E1" font-size="18" font-family="'Segoe UI', Arial, sans-serif">Graphics, simulation, audio, and interaction</text>
+    <text x="24" y="94" fill="#CBD5E1" font-size="18" font-family="'Segoe UI', Arial, sans-serif">composed into browser-native experiences.</text>
+  </g>
+</svg>
